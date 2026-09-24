@@ -6,7 +6,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Nicole-Gonzales/Nicole-Gonzales/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
 
